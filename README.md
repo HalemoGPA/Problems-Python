@@ -1,2 +1,2 @@
-# Problem-Solving-Python
+# Problems Python
 Solve some problems using python 
